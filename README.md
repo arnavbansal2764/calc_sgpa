@@ -6,9 +6,9 @@ This Python program allows you to input marks for five subjects of your 1st-seme
 
 ## Table of Contents
 
-- [Evaluation Components](##Evaluation Components)
-- [Grading Criteria](##Grading Criteria)
-- [How to Use](##How to Use)
+- Evaluation Components
+- Grading Criteria
+- How to Use
 # Evaluation Components
 
 - Mid Term Examination: 25%
