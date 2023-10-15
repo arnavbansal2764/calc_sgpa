@@ -34,7 +34,7 @@ This Python program allows you to input marks for five subjects of your 1st-seme
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/semester-marks-calculator.git
+   git clone https://github.com/arnavbansal2764/calc_sgpa.git
 2. Navigate to the project directory
    ```bash
    cd semester-marks-calculator
